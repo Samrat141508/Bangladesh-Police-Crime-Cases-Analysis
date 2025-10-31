@@ -1,58 +1,104 @@
 Bangladesh Police Crime Data Analysis (2015)
 Overview
 
-This project involves the analysis of crime data across various police ranges in Bangladesh for the year 2015. The dataset includes detailed statistics on crimes such as Murder, Robbery, Narcotics, and Woman & Child Repression across different regions. The project aims to provide insights into the distribution of crime cases and recovery statistics in each division.
+This project provides an in-depth analysis of crime data from various police divisions in Bangladesh for the year 2015. By examining crime categories such as Murder, Robbery, Narcotics, Smuggling, and Woman & Child Repression, this analysis reveals regional crime trends and insights into recovery cases across Bangladesh.
 
-Key Insights
+Key Findings
 
-Dhaka Range has the highest crime rates across multiple categories, including Murder (1237), Robbery (164), and Woman & Child Repression (5052).
+Dhaka Range reports the highest crime levels across various categories, especially in Murder (1237), Robbery (164), and Woman & Child Repression (5052).
 
-Rail Range reports the lowest crime incidents, making it the safest region with only 2 Robbery cases and 2 Murder cases.
+Rail Range is the safest region with the lowest crime counts, reporting only 2 Robbery and 2 Murder cases.
 
-Narcotics is the most prevalent recovery category, with regions like Dha Range, DMP, and Chi Range leading in recovery cases.
+Narcotics dominate recovery cases, with regions such as Dha Range, DMP, and Chi Range leading in narcotic-related cases.
 
-Smuggling is a significant issue in Raj Range and Khu Range.
+Smuggling cases are most prominent in Raj Range and Khu Range.
 
 Crime Statistics Overview
-
 Top 3 Crime Areas:
 
-Dha Range: 30,037 crimes, highest in Murder and Robbery.
+Dhaka Range:
 
-Chi Range: 20,184 crimes, notable in Robbery and Murder.
+Total Crimes: 30,037
 
-Khu Range: 14,078 crimes, significant Murder and Theft cases.
+Significant Crimes: Murder (1237), Robbery (164), Woman & Child Repression (5052)
+
+Chittagong Range:
+
+Total Crimes: 20,184
+
+Significant Crimes: Murder (688), Robbery (133), Woman & Child Repression (3886)
+
+Khulna Range:
+
+Total Crimes: 14,078
+
+Significant Crimes: Murder (439), Theft (513)
 
 Lowest 3 Crime Areas:
 
-RMP: 780 total crimes.
+RMP:
 
-BMP: 609 total crimes.
+Total Crimes: 780
 
-Rail Range: Safest region with 262 total crimes.
+Crime Categories: Low crime rates across all categories.
+
+BMP:
+
+Total Crimes: 609
+
+Crime Categories: Minimal criminal activity reported.
+
+Rail Range:
+
+Total Crimes: 262
+
+Crime Categories: The safest region, with the lowest crime levels.
 
 Crime Recovery Cases Overview
-
 Top 3 Recovery Cases:
 
-Dha Range: 13,385 cases, primarily in Narcotics (12,430).
+Dhaka Range:
 
-DMP: 9,024 cases, led by Narcotics (8,365).
+Total Recovery Cases: 13,385
 
-Chi Range: 8,793 cases, mainly in Narcotics (8,012).
+Main Recovery: Narcotics (12,430)
+
+DMP:
+
+Total Recovery Cases: 9,024
+
+Main Recovery: Narcotics (8,365)
+
+Chittagong Range:
+
+Total Recovery Cases: 8,793
+
+Main Recovery: Narcotics (8,012)
 
 Lowest 3 Recovery Cases:
 
-BMP: 576 total recovery cases, mostly Narcotics (557).
+BMP:
 
-Rail Range: 526 total recovery cases, primarily Narcotics (395) and Smuggling (118).
+Total Recovery Cases: 576
 
-SMP: 207 total recovery cases, mainly in Narcotics (183).
+Main Recovery: Narcotics (557)
+
+Rail Range:
+
+Total Recovery Cases: 526
+
+Main Recovery: Narcotics (395), Smuggling (118)
+
+SMP:
+
+Total Recovery Cases: 207
+
+Main Recovery: Narcotics (183)
 
 Conclusion
 
-Dha Range leads significantly in total crime and recovery cases, particularly in Narcotics.
+Dhaka Range leads in both crime occurrences and recovery cases, especially in Narcotics.
 
-Smuggling is more pronounced in Raj Range and Khu Range, while Narcotics is the most common crime type across most regions.
+Smuggling is notably higher in Raj Range and Khu Range, while Narcotics dominates the recovery cases across the majority of regions.
 
-Rail Range remains the safest region with the least amount of criminal activity.
+Rail Range is the safest region with the least reported crimes.
